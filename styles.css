@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+
+ * {
+    box-sizing:
+}
+
+body{
+    font-family: 'Tenor Sans', sans-serif;
+    background-color: rgb(233, 102, 237);
+    margin:3px;
+    padding:6px; color:#FFC7F6;
+    border: 10px;
+    text-align: center;
+
+
+}
+p {
+    line-height: 2px;
+    color: #FFC7F6;
+    text-align: center;
+    margin: 10px;
+
+
+}
